@@ -2,7 +2,7 @@
 
 > A mobile-friendly web app to track daily spending, visualize category distribution, and stay on top of your budget — no sign-up required.
 
-🔗 **[Live Demo →](https://ghufron99119.github.io/Expense_And_Budget_Visualizer-Project)**
+🔗 **[Live Demo →](https://nailul-ghufron.github.io/CodingCamp-30Mar26-NailulGhufron/)**
 
 ---
 
