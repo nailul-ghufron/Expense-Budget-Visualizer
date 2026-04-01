@@ -111,7 +111,7 @@ No build tools or installations needed.
 ## 👤 Author
 
 **Nailul Ghufron**
-🔗 [github.com/ghufron99119](https://github.com/ghufron99119)
+🔗 [github.com/ghufron99119](https://github.com/nailul-ghufron)
 
 ---
 
