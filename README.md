@@ -76,7 +76,7 @@ No build tools or installations needed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ghufron99119/Expense_And_Budget_Visualizer-Project.git
+   git clone https://github.com/nailul-ghufron/Expense-Budget-Visualizer.git
    ```
 2. Open the project folder and launch `index.html` in any modern browser:
    ```
